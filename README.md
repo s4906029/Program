@@ -1,3 +1,1 @@
 # Program
-
-Basic flocking system.
